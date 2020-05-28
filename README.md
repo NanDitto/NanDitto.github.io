@@ -1,3 +1,1 @@
-# NanDitto.github.io
-
-# MY WEBSITE
+# This is Nandor's Website
